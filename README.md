@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadeleineHartleff.
 - 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python und Front-End Development.
 - 💞️ I’m looking to collaborate on interesting projects where I can exchange ideas and learn from others in the tech community.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn!
 - 😄 Pronouns: she/her
